@@ -138,7 +138,7 @@ public class RunCucumberTest {
 ```
 ## Add_features_and_respective_step_definitions
 ```feature
-#Author: Arjun
+#Author: Ayan Ghosh
 Feature: GET: Automated Demo Tests
   Description: GET: purpose of this feature is to test some demo app.
 
